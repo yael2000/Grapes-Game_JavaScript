@@ -1,0 +1,61 @@
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\java script project.dll.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\java script project.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\java script project.pdb
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\java script project.xml
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\csc.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\csc.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\csc.rsp
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\csi.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\csi.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\csi.rsp
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.CodeAnalysis.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.CSharp.Core.targets
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\Microsoft.Win32.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.AppContext.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Collections.Immutable.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Console.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Diagnostics.Process.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Diagnostics.StackTrace.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.IO.Compression.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.IO.FileSystem.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.IO.Pipes.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Reflection.Metadata.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Security.AccessControl.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Security.Claims.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Security.Principal.Windows.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Text.Encoding.CodePages.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Threading.Thread.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.ValueTuple.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Xml.ReaderWriter.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Xml.XmlDocument.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Xml.XPath.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\System.Xml.XPath.XDocument.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\vbc.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\vbc.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\vbc.rsp
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\VBCSCompiler.exe
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\roslyn\VBCSCompiler.exe.config
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\obj\Debug\java script project.vbprojResolveAssemblyReference.cache
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\obj\Debug\java_script_project.Resources.resources
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\obj\Debug\java script project.vbproj.GenerateResource.Cache
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\obj\Debug\java script project.vbproj.CoreCompileInputs.cache
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\obj\Debug\java script project.dll
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\obj\Debug\java script project.xml
+Y:\0000הנדסאיות תשעט\שנה א\בקר\יעל מור\פרויקט בjava script\java script project\java script project\obj\Debug\java script project.pdb

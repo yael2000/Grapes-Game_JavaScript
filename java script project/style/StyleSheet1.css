@@ -1,0 +1,157 @@
+﻿body {
+    direction: rtl;
+    background-image: url('../images/ירוק בהיר.jpg');
+    font-family: FbHenryeta Regular;
+    font-size:20px;
+        
+}
+
+.circ {
+    background-color: rgb(233,233,233);
+    width: 50px;
+    height: 50px;
+    border: 2px solid #808080;
+    border-radius: 50px;
+    margin-bottom: -25px;
+    display: inline-block;
+    box-shadow: inset 10px 10px 10px #808080;
+
+}
+
+#space {
+    width: 25px;
+    display: inline-block;
+}
+
+#play1, #play2 {
+    background-color: #ffffff;
+    width: 50px;
+    height: 20px;
+    border-radius: 10px;
+    border: 2px solid #808080;
+    display: inline-block;
+  
+}
+#play2 {
+    margin-right:40%;
+}
+
+
+#finishPlay {
+    background-color: #f0c2ff;
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    border: 0.5px solid #b950f1;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-right: auto;
+    display: inline-block;
+    box-shadow: inset 10px 10px 10px #7d628b;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom:70px;
+}
+#newPlay {
+    background-color: #f0c2ff;
+    width: 150px;
+    height: 60px;
+    border-radius: 10px;
+    border: 0.5px solid #b950f1;
+    margin-left: 20px;
+    margin-top: 50px;
+    margin-right: auto;
+    display: inline-block;
+    box-shadow: inset 10px 10px 10px #7d628b;
+    font-size: 30px;
+    text-align:center
+}
+    #eshkol {
+        margin-right: 20%;
+    }
+
+h1 {
+    font-size: 50px;
+    text-align: center;
+    font-family: BN Cloud;
+}
+
+#scoreA {
+    background-color: rgb(150, 5, 116);
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid #808080;
+    margin-right: 10px;
+    margin-right: 20%;
+    display: inline-block;
+    font-size:40px;
+    text-align:center;
+}
+
+#scoreB {
+    background-color: rgb(178, 0, 76);
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    border: 2px solid #960574;
+   
+    display: inline-block;
+    font-size: 40px;
+    text-align: center;
+}
+
+#divWin {
+    background-color: rgb(219, 219, 219);
+    width: 1100px;
+    height: 100px;
+    font-size: 50px;
+    text-align: center;
+    margin-right: 10%;
+    margin-left: 10%;
+    border: 1px solid #808080;
+    border-radius: 10px;
+    box-shadow: 20px 12px 2px #b9b7b7;
+
+}
+
+#maximum {
+    text-align: inherit;
+    background-color: rgb(219, 219, 219);
+    font-size: 20px;
+    width: 150px;
+    height: 70px;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    box-shadow: 5px 10px 2px #b9b7b7;
+}
+
+#timeNow {
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 25px;
+}
+
+#block {
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 25px;
+}
+
+#inp {
+    font-size: 15px;
+}
+
+#continue {
+    font-size: 15px;
+}
+
+#picL {
+    margin-right: 500px;
+}
+
+#picR {
+ margin-left:500px;
+}
+

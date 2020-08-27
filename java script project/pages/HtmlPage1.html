@@ -1,0 +1,25 @@
+﻿
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    
+    <link href="../style/StyleSheet1.css" rel="stylesheet" />
+    <title></title>
+ 
+</head>
+<body>
+    <h1>משחק ענבים</h1>
+    <p id="timeNow"></p>
+    <div id="maximum"></div><br />
+    <div id="block">
+        <a id="size"> הקש גודל אשכול</a><input id="inp" type="number" min="5" max="15" />
+        <button id="continue" onclick="tableCreate('inp','size', this)">המשך</button>
+        <p id="noBetween"></p>
+        
+    </div>
+        <div id="picR"><img src="../images/ענבים-אדומים.jpg" width="250"height="400" align="right"/></div>
+        <div id="picL"><img src="../images/ענבים-שחורים-1.jpg"  width="250"height="400"align="left"/></div>
+    <script src="../script/JavaScript.js"></script>
+</body>
+</html>
